@@ -2,6 +2,11 @@ body {
     background: whitesmoke;
 }
 
+table {
+    width: 400px;
+}
+
+
 .images-wow {
     width: 300px;
 }
